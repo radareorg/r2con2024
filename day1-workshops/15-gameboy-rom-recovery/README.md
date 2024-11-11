@@ -22,5 +22,5 @@ the second repository's README file.
 --Travis Goodspeed
 
 
-![MaskRomTool Screenshot](screenshots/solver.png)
+![MaskRomTool Screenshot](solver.png)
 
