@@ -1,0 +1,3 @@
+[submodule "day1-workshops/11-advio-condret/r2con24_io"]
+	path = day1-workshops/11-advio-condret/r2con24_io
+	url = https://github.com/condret/r2con24_io
